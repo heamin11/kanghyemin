@@ -10,8 +10,10 @@ I made a bold choice to follow what I truly enjoy – **building beautiful and u
 - Designing UI/UX directly from sketch to implementation
 
 💡 I love how a single line of code can change an entire screen.  
-I enjoy the process of **planning → structuring → building → testing → improving**.  
-Especially, I’m interested in **UI design, front-end development**, and making **user-friendly interfaces**.
+I enjoy the process of 
+**planning → structuring → building → testing → improving**.  
+Especially, I’m interested in **UI design, front-end development**, 
+and making **user-friendly interfaces**.
 
 🛠 Current Project:
 I'm building a **mental health support app** with:
@@ -42,10 +44,16 @@ I'm building a **mental health support app** with:
 
 ---
 
+<div style="text-align: left;"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=heamin11&bg_color=180,000000,&title_color=000000&text_color=000000"
+     /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heamin11&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+       /> </div> 
+</div>
+
 ## ☕ Let's connect!
 
 📫 [이메일 주소]  
-📌 [블로그 주소]  
+<div style="text-align: left;"> 📌<a href="#"> <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link="> </a></div>  <br> 
 💬 언제든지 대화 환영합니다. 배우는 자세로, 성장하는 개발자가 되겠습니다!
 
 
